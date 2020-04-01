@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fmltutor",
+  "name": "FML Tutor",
+  "description": "My First mod on Minecrafttttt!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Billy233",
+  "updateUrl": "",
+  "authorList": ["Billy233"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
