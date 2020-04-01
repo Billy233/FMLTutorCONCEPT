@@ -147,7 +147,7 @@ public class EventLoader {
 
             if (event.entity instanceof EntityPlayer) {
                 EntityPlayer player = (EntityPlayer)event.entity;
-                player.inventory.addItemStackToInventory(new ItemStack(Items.diamond, 64));
+                player.inventory.addItemStackToInventory(new ItemStack(Items.diamond, 1));
             }
         }
     }
